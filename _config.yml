@@ -1,0 +1,19 @@
+title: Zevqi blog
+description: Notes on AI-written code, team understanding and engineering management, from the team behind zlearn.
+url: "https://zevqi.github.io"
+baseurl: "/blog"
+author: Neha Singh
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+show_excerpts: true
+minima:
+  social_links:
+    github: zevqi
+exclude:
+  - README.md
+  - LICENSE
+header_pages:
+  - about.md

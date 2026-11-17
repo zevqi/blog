@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zevqi.github.io/blog/sitemap.xml
