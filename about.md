@@ -11,6 +11,6 @@ Zevqi builds **zlearn**, the human-in-the-loop layer for agentic coding. It turn
 - Security and data flow: [zevqi.com/security](https://zevqi.com/security)
 - Follow us: [LinkedIn](https://www.linkedin.com/company/zevqi), [X](https://x.com/zevqihq), [YouTube](https://www.youtube.com/@zevqihq)
 
-Source code never reaches Zevqi. Only file paths, content fingerprints, scores, commit counts and anonymous author ids sync to the team dashboard.
+Source code never reaches Zevqi. Only file paths, content fingerprints, scores, commit counts and pseudonymous author ids sync to the team dashboard.
 
 Founded by Neha Singh. Contact: hello@zevqi.com.
