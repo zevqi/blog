@@ -8,7 +8,7 @@ canonical_url: https://zevqi.com/blog/how-zevqi-helps-your-team-understand-ai-wr
 tags: [ai, programming, softwareengineering, codereview, devtools]
 ---
 
-*Disclosure: I'm Neha, the founder of Zevqi. This is also published on [zevqi.com](https://zevqi.com?utm_source=github-pages&utm_medium=referral&utm_campaign=blog-launch) where it is kept up to date.*
+*Disclosure: I'm Neha, the founder of [Zevqi](https://zevqi.com). This is also published on [zevqi.com](https://zevqi.com?utm_source=github-pages&utm_medium=referral&utm_campaign=blog-launch) where it is kept up to date.*
 
 AI coding agents can now write a large pull request in minutes. Understanding that pull request still takes a person, and nothing in your tools records whether that person ever did it. A manager cannot see it, and the team usually finds out when something breaks.
 

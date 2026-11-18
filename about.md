@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Zevqi** is the human-in-the-loop layer for agentic coding. It turns AI-written code changes into short lessons and attested reviews, and gives engineering managers a dashboard showing which parts of the codebase their team has demonstrably understood.
+**[Zevqi](https://zevqi.com)** is the human-in-the-loop layer for agentic coding. It turns AI-written code changes into short lessons and attested reviews, and gives engineering managers a dashboard showing which parts of the codebase their team has demonstrably understood.
 
 - Website: [zevqi.com](https://zevqi.com)
 - Open-source command-line tool (MIT): [github.com/zevqi/zevqi](https://github.com/zevqi/zevqi)

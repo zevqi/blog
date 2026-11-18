@@ -7,7 +7,7 @@ author: Neha Singh
 tags: [ai, programming, softwareengineering, management, codereview]
 ---
 
-*Disclosure: I'm Neha, the founder of Zevqi, which builds a tool in this space. The practical advice below works without it.*
+*Disclosure: I'm Neha, the founder of [Zevqi](https://zevqi.com), which builds a tool in this space. The practical advice below works without it.*
 
 A few years ago, most of the code in a pull request was written by the person who opened it. That person understood it, because they had just typed it.
 

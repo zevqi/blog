@@ -7,7 +7,7 @@ author: Neha Singh
 tags: [engineeringmanagement, ai, leadership, softwareengineering, management]
 ---
 
-*Disclosure: I'm Neha, founder of Zevqi. The ritual works with a spreadsheet; I mention our tool at the end.*
+*Disclosure: I'm Neha, founder of [Zevqi](https://zevqi.com). The ritual works with a spreadsheet; I mention our tool at the end.*
 
 If your developers use AI coding agents, your team ships more code than it used to. What you probably cannot say with confidence is how much of that code anyone could explain.
 

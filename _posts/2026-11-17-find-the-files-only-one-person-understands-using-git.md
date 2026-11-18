@@ -7,7 +7,7 @@ author: Neha Singh
 tags: [git, programming, devops, tutorial, productivity]
 ---
 
-*Disclosure: I'm Neha, founder of Zevqi. The commands below are plain git and awk, and need no tool of mine.*
+*Disclosure: I'm Neha, founder of [Zevqi](https://zevqi.com). The commands below are plain git and awk, and need no tool of mine.*
 
 "Bus factor" is the number of people who would have to disappear before a project stalls. You do not need a platform to get a first answer. Your git history already knows who has touched which files.
 

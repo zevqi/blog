@@ -16,4 +16,4 @@ Read it at **https://zevqi.github.io/blog/**
 - Open-source CLI (MIT): https://github.com/zevqi/zevqi
 - Demo dashboard, no sign-up: https://zevqi.com/demo/dashboard
 
-Posts are written by the founder of Zevqi and say so. Corrections welcome as issues or pull requests.
+Posts are written by the founder of [Zevqi](https://zevqi.com) and say so. Corrections welcome as issues or pull requests.
