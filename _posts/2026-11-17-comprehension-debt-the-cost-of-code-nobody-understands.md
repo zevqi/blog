@@ -37,7 +37,7 @@ A reviewer approving a 900-line diff at 5 p.m. is not the same as a person who c
 
 The reason comprehension debt grows is that nobody sees it. So whatever you do, the first step is to look at where knowledge actually sits: who has touched which files, who has stopped touching them, which recent changes were written by an AI tool and never reviewed by a person.
 
-That is what we built Zevqi to show. Its command-line tool, zlearn, reads your git history on your own machine and builds a knowledge map, and your team can add short lessons or attested reviews as evidence that a person understood a specific version of a file. The dashboard shows managers where understanding is recorded and where it is not. Your source code never reaches Zevqi, and no model key is needed. The tool is open source, with a seven-day trial of the team dashboard that needs no card.
+That is what we built Zevqi to show. Its command-line tool reads your git history on your own machine and builds a knowledge map, and your team can add short lessons or attested reviews as evidence that a person understood a specific version of a file. The dashboard shows managers where understanding is recorded and where it is not. Your source code never reaches Zevqi, and no model key is needed. The tool is open source, with a seven-day trial of the team dashboard that needs no card.
 
 It does not prove a developer is good, it does not rank people, and it does not replace review. It records evidence that expires when a file changes, so the answer to "who understands this?" stays honest.
 
@@ -52,4 +52,4 @@ If the honest answer is "I would find out when it happened", you have comprehens
 
 ---
 
-*Zevqi builds [zlearn](https://github.com/zevqi/zlearn), an open-source (MIT) command-line tool that shows which parts of your codebase your team has demonstrably understood. Source code never reaches Zevqi. [Try the 7-day team trial](https://zevqi.com/trial) or [explore the demo dashboard](https://zevqi.com/demo/dashboard).*
+*Zevqi builds an open-source (MIT) [command-line tool](https://github.com/zevqi/zevqi) that shows which parts of your codebase your team has demonstrably understood. Install it with `npm install -g zevqi`. Source code never reaches Zevqi. [Try the 7-day team trial](https://zevqi.com/trial) or [explore the demo dashboard](https://zevqi.com/demo/dashboard).*

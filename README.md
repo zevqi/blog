@@ -1,6 +1,6 @@
 # Zevqi blog
 
-Notes on AI-written code, team understanding and engineering management, from the team behind [zlearn](https://github.com/zevqi/zlearn).
+Notes on AI-written code, team understanding and engineering management, from the team behind [Zevqi](https://github.com/zevqi/zevqi).
 
 Read it at **https://zevqi.github.io/blog/**
 
@@ -13,7 +13,7 @@ Read it at **https://zevqi.github.io/blog/**
 ## About
 
 - Product: https://zevqi.com
-- Open-source CLI (MIT): https://github.com/zevqi/zlearn
+- Open-source CLI (MIT): https://github.com/zevqi/zevqi
 - Demo dashboard, no sign-up: https://zevqi.com/demo/dashboard
 
 Posts are written by the founder of Zevqi and say so. Corrections welcome as issues or pull requests.

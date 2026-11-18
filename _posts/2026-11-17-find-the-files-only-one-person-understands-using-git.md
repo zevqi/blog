@@ -55,9 +55,9 @@ Run it monthly and keep the output. If a file stays on the list for months, sche
 
 With AI coding agents, the commit author may be a developer who accepted a large generated diff without reading most of it. Then "only one person has touched this file" says even less about understanding. Some tools add a co-author trailer to such commits, and `git log --format='%b' | grep -i co-authored-by` shows which commits carry one.
 
-We built Zevqi's zlearn tool to do this kind of analysis automatically, add the AI-assisted signal, and let developers record evidence that they understood a file, so a manager can see coverage over time. Its `zlearn scan` command builds a similar map from git alone, with no model key, and your code never leaves your machine. But if all you wanted was the one-liner above, you have it.
+We built Zevqi to do this kind of analysis automatically, add the AI-assisted signal, and let developers record evidence that they understood a file, so a manager can see coverage over time. Its `zevqi scan` command builds a similar map from git alone, with no model key, and your code never leaves your machine. But if all you wanted was the one-liner above, you have it.
 
 
 ---
 
-*Zevqi builds [zlearn](https://github.com/zevqi/zlearn), an open-source (MIT) command-line tool that shows which parts of your codebase your team has demonstrably understood. Source code never reaches Zevqi. [Try the 7-day team trial](https://zevqi.com/trial) or [explore the demo dashboard](https://zevqi.com/demo/dashboard).*
+*Zevqi builds an open-source (MIT) [command-line tool](https://github.com/zevqi/zevqi) that shows which parts of your codebase your team has demonstrably understood. Install it with `npm install -g zevqi`. Source code never reaches Zevqi. [Try the 7-day team trial](https://zevqi.com/trial) or [explore the demo dashboard](https://zevqi.com/demo/dashboard).*
