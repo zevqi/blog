@@ -128,7 +128,7 @@ It is probably not worth it for a solo developer who wants a quick explanation o
 
 ## What it costs
 
-The command-line tool is free and open source, and works alone with no account. The team dashboard has a 30-day free trial for up to 5 developers with no card. After that, a Team plan is $12 per developer per month, or $10 on annual billing, for 2 to 50 developers.
+The command-line tool is free and open source, and works alone with no account. The team dashboard has a 30-day free trial for up to 20 developers with no card. After that, a Team plan is $12 per developer per month, or $10 on annual billing, for 2 to 50 developers.
 
 ## Try it
 
