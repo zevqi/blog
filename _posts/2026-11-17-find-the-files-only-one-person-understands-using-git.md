@@ -60,4 +60,4 @@ We built Zevqi to do this kind of analysis automatically, add the AI-assisted si
 
 ---
 
-*Zevqi builds an open-source (MIT) [command-line tool](https://github.com/zevqi/zevqi) that shows which parts of your codebase your team has demonstrably understood. Install it with `npm install -g zevqi`. Source code never reaches Zevqi. [Try the 7-day team trial](https://zevqi.com/trial) or [explore the demo dashboard](https://zevqi.com/demo/dashboard).*
+*Zevqi builds an open-source (MIT) [command-line tool](https://github.com/zevqi/zevqi) that shows which parts of your codebase your team has demonstrably understood. Install it with `npm install -g zevqi`. Source code never reaches Zevqi. [Try the 30-day team trial](https://zevqi.com/trial) or [explore the demo dashboard](https://zevqi.com/demo/dashboard).*

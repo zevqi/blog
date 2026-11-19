@@ -52,4 +52,4 @@ You cannot manage what you cannot see. Whether you use a spreadsheet or a dashbo
 
 ---
 
-*Zevqi builds an open-source (MIT) [command-line tool](https://github.com/zevqi/zevqi) that shows which parts of your codebase your team has demonstrably understood. Install it with `npm install -g zevqi`. Source code never reaches Zevqi. [Try the 7-day team trial](https://zevqi.com/trial) or [explore the demo dashboard](https://zevqi.com/demo/dashboard).*
+*Zevqi builds an open-source (MIT) [command-line tool](https://github.com/zevqi/zevqi) that shows which parts of your codebase your team has demonstrably understood. Install it with `npm install -g zevqi`. Source code never reaches Zevqi. [Try the 30-day team trial](https://zevqi.com/trial) or [explore the demo dashboard](https://zevqi.com/demo/dashboard).*

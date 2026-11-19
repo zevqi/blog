@@ -39,7 +39,7 @@ The central idea is simple: a review is **evidence for one version of one file**
 
 ## Set it up in about five minutes
 
-You need a Node.js install and a git repository. A team lead creates a team on the website (there is a 7-day free trial that needs no card) and shares the team key. Each developer then runs two commands in their repository:
+You need a Node.js install and a git repository. A team lead creates a team on the website (there is a 30-day free trial that needs no card) and shares the team key. Each developer then runs two commands in their repository:
 
 ```
 npm install -g zevqi
@@ -128,12 +128,12 @@ It is probably not worth it for a solo developer who wants a quick explanation o
 
 ## What it costs
 
-The command-line tool is free and open source, and works alone with no account. The team dashboard has a 7-day free trial for up to 5 developers with no card. After that, a Team plan is $12 per developer per month, or $10 on annual billing, for 2 to 50 developers.
+The command-line tool is free and open source, and works alone with no account. The team dashboard has a 30-day free trial for up to 5 developers with no card. After that, a Team plan is $12 per developer per month, or $10 on annual billing, for 2 to 50 developers.
 
 ## Try it
 
 - Look at the demo dashboard with sample data, no sign-up: https://zevqi.com/demo/dashboard?utm_source=github-pages&utm_medium=referral&utm_campaign=blog-launch
-- Start the 7-day team trial, no card: https://zevqi.com/trial?utm_source=github-pages&utm_medium=referral&utm_campaign=blog-launch
+- Start the 30-day team trial, no card: https://zevqi.com/trial?utm_source=github-pages&utm_medium=referral&utm_campaign=blog-launch
 - Preview a scan on your own repository without sending anything: `npm install -g zevqi` then `zevqi scan --dry-run`
 - Read the code: https://github.com/zevqi/zevqi
 
